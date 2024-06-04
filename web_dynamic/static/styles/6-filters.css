@@ -67,6 +67,17 @@ button:hover {
 .popover::-webkit-scrollbar{
     width: 0px;
 }
+/* 
+.popover ul li {
+    display: flex;
+    align-items: center; 
+} */
+
+.popover ul li input {
+    margin: 0;
+    margin-right: 10px;
+    vertical-align: middle;
+}
 
 .amenities .popover {
     padding: 10px 0;
